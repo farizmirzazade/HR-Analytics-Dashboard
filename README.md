@@ -59,7 +59,7 @@ HR-Analytics-Dashboard/
 
 ## 🚀 Necə açmaq olar?
 
-1. [Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop) yükləyin (pulsuz).
+1. [Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop) yükləyin.
 2. `pbix/HR_Analytics_Dashboard.pbix` faylını açın.
 3. Lazım gəlsə, `data/HR_Analytics.csv` yolunu Power Query-də yeniləyin (Transform Data → Data Source Settings).
 
@@ -72,7 +72,7 @@ HR-Analytics-Dashboard/
 
 ## 👤 Müəllif
 
-Bu dashboard [adınızı əlavə edin] tərəfindən Kaggle-in IBM HR Analytics Employee Attrition & Performance datasetindən istifadə edilərək hazırlanmışdır.
+Bu dashboard Fariz Mirzəzadə tərəfindən Kaggle-in IBM HR Analytics Employee Attrition & Performance datasetindən istifadə edilərək hazırlanmışdır.
 
 ## 📄 Lisenziya
 
