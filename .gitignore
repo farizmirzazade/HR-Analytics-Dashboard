@@ -1,0 +1,10 @@
+# OS faylları
+.DS_Store
+Thumbs.db
+
+# Power BI müvəqqəti faylları
+*.pbix.lock
+~$*
+
+# Digər
+*.tmp
